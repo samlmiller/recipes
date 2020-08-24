@@ -685,6 +685,20 @@
         "rating": 0,
         "category": "chinese",
         "servings": 6
+        },
+        {"recipe": "Homemade Tortilla Chips",
+        "ingredients":
+            [
+                {"oil": {"amount": 1, "unit": "cup/liquid"}},
+                {"corn tortilla": {"amount": 12, "unit": "single"}}
+            ],
+        "spices":
+            ["salt"
+            ],
+        "url": "https://www.simplyrecipes.com/recipes/how_to_make_homemade_tortilla_chips/",
+        "rating": 0,
+        "category": "mexican",
+        "servings": 3
         }
     ]
 }
