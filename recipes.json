@@ -660,6 +660,31 @@
         "rating": 0,
         "category": "mexican",
         "servings": 9
+        },
+        {"recipe": "Asian Lettuce Wraps (Crockpot)",
+        "ingredients":
+            [
+                {"hoisin sauce": {"amount": 0.5, "unit": "cup/liquid"}},
+                {"soy sauce": {"amount": 0.25, "unit": "cup/liquid"}},
+                {"rice vinegar": {"amount": 2, "unit": "tbsp"}},
+                {"sesame oil": {"amount": 2, "unit": "tbsp"}},
+                {"ground beef": {"amount": 2, "unit": "lbs"}},
+                {"green onion": {"amount": 1, "unit": "bunch"}},
+                {"ginger": {"amount": 1, "unit": "tbsp"}},
+                {"garlic": {"amount": 2, "unit": "clove"}},
+                {"baby bella cremini mushroom": {"amount": 8, "unit": "oz/solid"}},
+                {"carrot": {"amount": 1.5, "unit": "cup/solid"}},
+                {"water chestnut": {"amount": 16, "unit": "oz/solid"}},
+                {"butter lettuce": {"amount": 2, "unit": "single"}}
+            ],
+        "spices":
+            ["olive oil",
+             "red pepper flakes"
+            ],
+        "url": "https://www.wellplated.com/asian-lettuce-wraps/",
+        "rating": 0,
+        "category": "chinese",
+        "servings": 6
         }
     ]
 }
