@@ -1,0 +1,665 @@
+{
+    "recipes":
+    [
+        {"recipe": "California Burrito",
+        "ingredients": 
+            [
+                {"tortilla": {"amount": 4, "unit": "single"}},
+                {"beef tenderloin": {"amount": 16, "unit": "oz/solid"}},
+                {"avocado": {"amount": 4, "unit": "single"}},
+                {"salsa": {"amount": 8, "unit": "oz/liquid"}},
+                {"onion": {"amount": 1, "unit": "single"}},
+                {"pickled jalapeno": {"amount": 0.5, "unit": "cup/liquid"}},
+                {"garlic": {"amount": 3, "unit": "clove"}},
+                {"serrano chile": {"amount": 1, "unit": "single"}},
+                {"cilantro": {"amount": 0.5, "unit": "bunch"}},
+                {"soy sauce": {"amount": 0.25, "unit": "cup/liquid"}},
+                {"lime": {"amount": 1, "unit": "single"}},
+                {"orange": {"amount": 1, "unit": "single"}},
+                {"oregano": {"amount": 1, "unit": "tbsp"}},
+                {"french fries": {"amount": 24, "unit": "oz/solid"}},
+                {"cheddar": {"amount": 1, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "cayenne"
+            ],
+        "url": "https://www.tastingtable.com/cook/recipes/california-breakfast-burrito-recipe-egg-shop",
+        "rating": 8.5,
+        "category": "american",
+        "servings": 4
+        },
+        {"recipe": "Carbonara",
+        "ingredients":
+            [
+                {"pasta": {"amount": 16, "unit": "oz/solid"}},
+                {"parmesan": {"amount": 6, "unit": "oz/solid"}},
+                {"bacon": {"amount": 8, "unit": "oz/solid"}},
+                {"egg": {"amount": 1, "unit": "single"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "oglio"
+            ],
+        "url": "n/a",
+        "rating": 7.5,
+        "category": "italian",
+        "servings": 4
+        },
+        {"recipe": "Lasagne",
+        "ingredients":
+            [
+                {"sausage": {"amount": 1, "unit": "lbs"}},
+                {"ground beef": {"amount": 0.75, "unit": "lbs"}},
+                {"onion": {"amount": 0.5, "unit": "cup/solid"}},
+                {"garlic": {"amount": 2, "unit": "clove"}},
+                {"crushed tomato": {"amount": 28, "unit": "oz/liquid"}},
+                {"tomato paste": {"amount": 12, "unit": "oz/liquid"}},
+                {"tomato sauce": {"amount": 6.5, "unit": "oz/liquid"}},
+                {"lasagna noodle": {"amount": 12, "unit": "single"}},
+                {"ricotta": {"amount": 16, "unit": "oz/solid"}},
+                {"egg": {"amount": 1, "unit": "single"}},
+                {"mozzarella": {"amount": 0.75, "unit": "lbs"}},
+                {"parmesan": {"amount": 0.75, "unit": "cup/solid"}},
+                {"parsley": {"amount": 4, "unit": "tbsp"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "sugar",
+             "fennel",
+             "italian seasoning",
+             "basil"
+            ],
+        "url": "https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/",
+        "rating": 9,
+        "category": "italian",
+        "servings": 8
+        },
+        {"recipe": "Burger",
+        "ingredients":
+            [
+                {"bread": {"amount": 1, "unit": "slice"}},
+                {"ground beef": {"amount": 1, "unit": "lbs"}},
+                {"egg": {"amount": 1, "unit": "single"}},
+                {"hamburger bun": {"amount": 4, "unit": "single"}},
+                {"onion": {"amount": 0.5, "unit": "single"}},
+                {"garlic": {"amount": 2, "unit": "clove"}},
+                {"tomato": {"amount": 0.5, "unit": "single"}},
+                {"pepperjack": {"amount": 4, "unit": "slice"}},
+                {"spinach": {"amount": 1, "unit": "oz/solid"}},
+                {"french fries": {"amount": 16, "unit": "oz/solid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "sugar",
+             "garlic powder",
+             "salted butter"
+            ],
+        "url": "sam's recipe book",
+        "rating": 8.5,
+        "category": "american",
+        "servings": 4
+        },
+        {"recipe": "Salmon with Potatoes & Asparagus",
+        "ingredients":
+            [
+                {"fingerling potato": {"amount": 1, "unit": "lbs"}},
+                {"salmon fillet": {"amount": 1, "unit": "lbs"}},
+                {"garlic": {"amount": 2.5, "unit": "tbsp"}},
+                {"parsley": {"amount": 2, "unit": "tbsp"}},
+                {"lemon": {"amount": 1, "unit": "single"}},
+                {"asparagus": {"amount": 3, "unit": "bunch"}},
+                {"chicken broth": {"amount": 0.25, "unit": "cup/liquid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "olive oil",
+             "unsalted butter"
+            ],
+        "url": "https://cafedelites.com/sheet-pan-garlic-butter-baked-salmon/",
+        "rating": 7,
+        "category": "seafood",
+        "servings": 4
+        },
+        {"recipe": "Brunch",
+        "ingredients":
+            [
+                {"egg": {"amount": 4, "unit": "single"}},
+                {"bacon": {"amount": 4, "unit": "slice"}},
+                {"hash brown": {"amount": 8, "unit": "oz/solid"}},
+                {"milk": {"amount": 1, "unit": "cup/liquid"}},
+                {"bread": {"amount": 2, "unit": "slice"}},
+                {"mozzarella": {"amount": 0.5, "unit": "oz/solid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "salted butter"
+            ],
+        "url": "n/a",
+        "rating": 8,
+        "category": "american",
+        "servings": 2
+        },
+        {"recipe": "Fried Rice",
+        "ingredients":
+            [
+                {"rice": {"amount": 2, "unit": "cup/solid"}},
+                {"vegetable medley": {"amount": 16, "unit": "oz/solid"}},
+                {"egg": {"amount": 2, "unit": "single"}},
+                {"sausage": {"amount": 2, "unit": "single"}},
+                {"garlic": {"amount": 3, "unit": "clove"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "soy sauce",
+             "sesame oil",
+             "vegetable oil",
+             "sesame seed",
+             "siracha"
+            ],
+        "url": "n/a",
+        "rating": 0,
+        "category": "chinese",
+        "servings": 4
+        },
+        {"recipe": "Curry",
+        "ingredients":
+            [
+                {"potato": {"amount": 2, "unit": "lbs"}},
+                {"onion": {"amount": 1, "unit": "single"}},
+                {"garlic": {"amount": 4, "unit": "clove"}},
+                {"chickpea": {"amount": 15, "unit": "oz/solid"}},
+                {"pea": {"amount": 15, "unit": "oz/solid"}},
+                {"coconut milk": {"amount": 16, "unit": "oz/liquid"}},
+                {"tomato": {"amount": 2, "unit": "single"}},
+                {"naan": {"amount": 4, "unit": "single"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "vegetable oil",
+             "cumin",
+             "cayenne pepper",
+             "curry powder",
+             "ginger"
+            ],
+        "url": "https://tasty.co/recipe/simple-veggie-curry",
+        "rating": 7.5,
+        "category": "indian",
+        "servings": 4
+        },
+        {"recipe": "Meatball Sub",
+        "ingredients":
+            [
+                {"bread": {"amount": 1, "unit": "slice"}},
+                {"ground beef": {"amount": 1, "unit": "lbs"}},
+                {"egg": {"amount": 1, "unit": "single"}},
+                {"onion": {"amount":4, "unit": "oz/solid"}},
+                {"baguette": {"amount": 1, "unit": "single"}},
+                {"marinara sauce": {"amount": 5, "unit": "cup/liquid"}},
+                {"provolone": {"amount": 6, "unit": "oz/solid"}},
+                {"parsley": {"amount": 2, "unit": "tbsp"}},
+                {"garlic": {"amount": 3, "unit": "clove"}},
+                {"mozzarella": {"amount": 0.5, "unit": "oz/solid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper"
+            ],
+        "url": "sam's recipe book + https://www.spendwithpennies.com/meatball-sub",
+        "rating": 8.5,
+        "category": "american",
+        "servings": 4
+        },
+        {"recipe": "Garlic Bread",
+        "ingredients":
+            [
+                {"baguette": {"amount": 1, "unit": "single"}},
+                {"garlic": {"amount": 2, "unit": "clove"}},
+                {"parsley": {"amount": 1, "unit": "tbsp"}},
+                {"parmesan": {"amount": 0.25, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["pepper",
+             "unsalted butter"
+            ],
+        "url": "https://www.simplyrecipes.com/recipes/garlic_bread/",
+        "rating": 0,
+        "category": "appetizer",
+        "servings": 4
+        },
+        {"recipe": "Grilled Cheese",
+        "ingredients":
+            [
+                {"sourdough": {"amount": 8, "unit": "slice"}},
+                {"cheddar": {"amount": 4, "unit": "slice"}},
+                {"pepperjack": {"amount": 4, "unit": "slice"}},
+                {"grilled_cheese_options": {"amount": 1, "unit": "single"}}
+            ],
+        "spices":
+            ["salted butter",
+             "pepper"
+            ],
+        "url": "https://www.spendwithpennies.com/the-best-grilled-cheese-sandwich/",
+        "rating": 8,
+        "category": "american",
+        "servings": 4
+        },
+        {"recipe": "Tomato Soup",
+        "ingredients":
+            [
+                {"onion": {"amount": 0.5, "unit": "single"}},
+                {"crushed tomato": {"amount": 28, "unit": "oz/liquid"}}
+            ],
+        "spices":
+            ["unsalted butter",
+             "pepper",
+             "salt"
+            ],
+        "url": "https://www.inspiredtaste.net/27956/easy-tomato-soup-recipe/",
+        "rating": 4,
+        "category": "side",
+        "servings": 3
+        },
+        {"recipe": "Broccoli Mac & Cheese",
+        "ingredients":
+            [
+                {"pasta": {"amount": 12, "unit": "oz/solid"}},
+                {"milk": {"amount": 4, "unit": "cup/liquid"}},
+                {"cheddar": {"amount": 4, "unit": "cup/solid"}},
+                {"broccoli": {"amount": 2, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["salted butter",
+             "pepper",
+             "flour",
+             "salt",
+             "garlic powder",
+             "onion powder",
+             "paprika",
+             "chili seasoning"
+            ],
+        "url": "https://www.dinneratthezoo.com/broccoli-mac-and-cheese/",
+        "rating": 0,
+        "category": "american",
+        "servings": 6
+        },
+        {"recipe": "Mozzarella Sticks",
+        "ingredients":
+            [
+                {"panko": {"amount": 1, "unit": "cup/solid"}},
+                {"egg": {"amount": 2, "unit": "single"}},
+                {"milk": {"amount": 1, "unit": "tbsp"}},
+                {"marinara": {"amount": 1, "unit": "cup/liquid"}},
+                {"mozzarella sticks": {"amount": 1, "unit": "lbs"}}
+            ],
+        "spices":
+            ["vegetable oil",
+             "flour"
+            ],
+        "url": "https://www.food.com/recipe/mozzarella-sticks-30977",
+        "rating": 0,
+        "category": "appetizer",
+        "servings": 3
+        },
+        {"recipe": "Sausage & Mash",
+        "ingredients":
+            [
+                {"sausage": {"amount": 8, "unit": "single"}},
+                {"onion": {"amount": 2, "unit": "single"}},
+                {"stock": {"amount": 20, "unit": "oz/liquid"}},
+                {"potato": {"amount": 2, "unit": "lbs"}},
+                {"salted butter": {"amount": 1.75, "unit": "oz/solid"}},
+                {"milk": {"amount": 3.5, "unit": "oz/liquid"}},
+                {"pea": {"amount": 10.5, "unit": "oz/solid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "salted butter",
+             "english mustard",
+             "flour",
+             "mixed herb"
+            ],
+        "url": "https://www.bbc.co.uk/food/recipes/bangers_and_mash_with_80175",
+        "rating": 0,
+        "category": "english",
+        "servings": 4
+        },
+        {"recipe": "Yorkshire Pudding",
+        "ingredients":
+            [
+                {"egg": {"amount": 4, "unit": "single"}},
+                {"milk": {"amount": 1.5, "unit": "cup/liquid"}},
+                {"flour": {"amount": 1.25, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["salt",
+             "vegetable oil"
+            ],
+        "url": "https://www.food.com/recipe/gordon-ramsays-yorkshire-pudding-424498#activity-feed",
+        "rating": 0,
+        "category": "side",
+        "servings": 6
+        },
+        {"recipe": "Tilapia",
+        "ingredients":
+            [
+                {"unsalted butter": {"amount": 0.25, "unit": "cup/solid"}},
+                {"garlic": {"amount": 3, "unit": "clove"}},
+                {"lemon": {"amount": 1, "unit": "single"}},
+                {"tilapia": {"amount": 24, "unit": "oz/solid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "parsley"   
+            ],
+        "url": "https://damndelicious.net/2016/04/30/baked-lemon-butter-tilapia/",
+        "rating": 0,
+        "category": "american",
+        "servings": 4
+        },
+        {"recipe": "Broccoli Casserole",
+        "ingredients":
+            [
+                {"vegetable broth": {"amount": 2, "unit": "cup/liquid"}},
+                {"quinoa": {"amount": 1, "unit": "cup/solid"}},
+                {"broccoli": {"amount": 16, "unit": "oz/solid"}},
+                {"cheddar": {"amount": 8, "unit": "oz/solid"}},
+                {"milk": {"amount": 1, "unit": "cup/liquid"}},
+                {"garlic": {"amount": 1, "unit": "clove"}},
+                {"bread": {"amount": 1, "unit": "slice"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "olive oil",
+             "red pepper flakes",
+             "salted butter"   
+            ],
+        "url": "https://cookieandkate.com/better-broccoli-casserole-recipe/",
+        "rating": 7,
+        "category": "american",
+        "servings": 4
+        },
+        {"recipe": "Homemade Brownies",
+        "ingredients":
+            [
+                {"sugar": {"amount": 1.5, "unit": "cup/solid"}},
+                {"flour": {"amount": 0.75, "unit": "cup/solid"}},
+                {"cocoa powder": {"amount": 0.67, "unit": "cup/solid"}},
+                {"powdered sugar": {"amount": 0.5, "unit": "cup/solid"}},
+                {"chocolate chip": {"amount": 0.5, "unit": "cup/solid"}},
+                {"egg": {"amount": 2, "unit": "single"}},
+                {"vanilla": {"amount": 0.5, "unit": "tsp"}},
+                {"walnut": {"amount": 0.5, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["salt",
+             "vegetable oil" 
+            ],
+        "url": "https://www.loveandlemons.com/brownies-recipe/",
+        "rating": 0,
+        "category": "dessert",
+        "servings": 8
+        },
+        {"recipe": "Beef Stew",
+        "ingredients":
+            [
+                {"beef": {"amount": 1, "unit": "lbs"}},
+                {"flour": {"amount": 0.25, "unit": "cup/solid"}},
+                {"red wine": {"amount": 1, "unit": "cup/liquid"}},
+                {"beef broth": {"amount": 3.5, "unit": "cup/liquid"}},
+                {"onion": {"amount": 1, "unit": "single"}},
+                {"carrot": {"amount": 5, "unit": "single"}},
+                {"potato": {"amount": 2, "unit": "single"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "vegetable oil",
+             "red wine vinegar",
+             "bay leaf"
+            ],
+        "url": "https://cooking.nytimes.com/recipes/4735-old-fashioned-beef-stew",
+        "rating": 0,
+        "category": "american",
+        "servings": 4
+        },
+        {"recipe": "Short Ribs",
+        "ingredients":
+            [
+                {"bone-in-beef short ribs": {"amount": 5, "unit": "lbs"}},
+                {"carrot": {"amount": 3, "unit": "single"}},
+                {"onion": {"amount": 1, "unit": "single"}},
+                {"ginger": {"amount": 1, "unit": "single"}},
+                {"green onion": {"amount": 2, "unit": "single"}},
+                {"soy sauce": {"amount": 0.5, "unit": "cup/liquid"}},
+                {"rice wine vinegar": {"amount": 0.25, "unit": "cup/liquid"}},
+                {"brown sugar": {"amount": 0.25, "unit": "cup/solid"}},
+                {"rice": {"amount": 2, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "sesame oil",
+             "red pepper flakes",
+             "garlic",
+             "sesame seeds"
+            ],
+        "url": "https://www.delish.com/cooking/recipe-ideas/a29492060/slow-cooker-short-ribs-recipe/",
+        "rating": 0,
+        "category": "american",
+        "servings": 5
+        },
+        {"recipe": "Broccoli Beef",
+        "ingredients":
+            [
+                {"sirloin steak": {"amount": 1.5, "unit": "lbs"}},
+                {"beef broth - low sodium": {"amount": 1, "unit": "cup/liquid"}},
+                {"soy sauce": {"amount": 0.5, "unit": "cup/liquid"}},
+                {"brown sugar": {"amount": 0.5, "unit": "cup/solid"}},
+                {"green onion": {"amount": 3, "unit": "single"}},
+                {"broccoli florets": {"amount": 2, "unit": "cup/solid"}},
+                {"rice": {"amount": 2, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "sesame oil",
+             "cornstarch",
+             "garlic",
+             "sriracha",
+             "sesame seeds"
+            ],
+        "url": "https://www.delish.com/cooking/recipe-ideas/recipes/a51806/slow-cooker-beef-broccoli-recipe/",
+        "rating": 0,
+        "category": "chinese",
+        "servings": 6
+        },
+        {"recipe": "Kung Pao Chicken",
+        "ingredients":
+            [
+                {"chicken": {"amount": 1.25, "unit": "lbs"}},
+                {"dried red chili peppers": {"amount": 5, "unit": "single"}},
+                {"roasted cashew / peanut": {"amount": 0.67, "unit": "cup/solid"}},
+                {"red bell pepper": {"amount": 1, "unit": "single"}},
+                {"zucchini": {"amount": 1, "unit": "single"}},
+                {"soy sauce": {"amount": 0.5, "unit": "cup/liquid"}},
+                {"honey": {"amount": 3, "unit": "tbsp"}},
+                {"garlic": {"amount": 3, "unit": "clove"}},
+                {"ginger": {"amount": 1, "unit": "tsp"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "olive oil",
+             "hoisin sauce",
+             "dried red pepper chili flakes",
+             "cornstarch"
+            ],
+        "url": "https://therecipecritic.com/skinny-slow-cooker-kung-pao-chicken/",
+        "rating": 0,
+        "category": "chinese",
+        "servings": 6
+        },
+        {"recipe": "Southwest Cobb Salad",
+        "ingredients":
+            [
+                {"chicken breast": {"amount": 1, "unit": "lbs"}},
+                {"mixed greens": {"amount": 10, "unit": "cup/solid"}},
+                {"diced tomatoes": {"amount": 1, "unit": "cup/solid"}},
+                {"shredded jack cheese": {"amount": 1, "unit": "cup/solid"}},
+                {"green onions": {"amount": 1, "unit": "cup/solid"}},
+                {"avocado": {"amount": 1, "unit": "single"}},
+                {"tortilla strips": {"amount": 1, "unit": "cup/solid"}},
+                {"sweet corn cob": {"amount": 2, "unit": "single"}},
+                {"chipotle lime dressing": {"amount": 1, "unit": "cup/liquid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "southwest seasoning"
+            ],
+        "url": "https://www.thecreativebite.com/southwest-chicken-cobb-salad-chipotle-lime-dressing/",
+        "rating": 0,
+        "category": "american",
+        "servings": 4
+        },
+        {"recipe": "Pizza",
+        "ingredients":
+            [
+                {"pizza dough": {"amount": 2, "unit": "single"}},
+                {"pizza sauce": {"amount": 16, "unit": "oz/liquid"}},
+                {"mozzarella": {"amount": 16, "unit": "oz/solid"}},
+                {"parmesan": {"amount": 2, "unit": "tbsp"}},
+                {"basil": {"amount": 2, "unit": "tbsp"}},
+                {"pizza options": {"amount": 1, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "olive oil",
+             "flour",
+             "oregano"
+            ],
+        "url": "https://sipbitego.com/making-pizza-home-store-bought-dough/",
+        "rating": 0,
+        "category": "american",
+        "servings": 4
+        },
+        {"recipe": "Thai Chicken Soup (Crockpot)",
+        "ingredients":
+            [
+                {"coconut milk": {"amount": 28, "unit": "oz/liquid"}},
+                {"chicken broth": {"amount": 3, "unit": "cup/liquid"}},
+                {"natural peanut butter": {"amount": 0.5, "unit": "cup/solid"}},
+                {"red curry paste": {"amount": 4, "unit": "oz/liquid"}},
+                {"soy sauce": {"amount": 5, "unit": "tbsp"}},
+                {"brown sugar": {"amount": 2, "unit": "tbsp"}},
+                {"garlic": {"amount": 4, "unit": "clove"}},
+                {"chicken breast": {"amount": 1, "unit": "lbs"}},
+                {"yellow onion": {"amount": 1, "unit": "single"}},
+                {"carrot": {"amount": 1, "unit": "cup/solid"}},
+                {"red bell pepper": {"amount": 1, "unit": "single"}},
+                {"mushroom": {"amount": 8, "unit": "oz/solid"}},
+                {"broccoli": {"amount": 1, "unit": "bunch"}},
+                {"rice or noodle": {"amount": 2.5, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["hoisin sauce",
+             "ginger",
+             "red pepper flakes",
+             "salt",
+             "lime juice",
+             "cilantro"
+            ],
+        "url": "https://showmetheyummy.com/slow-cooker-thai-chicken-soup-recipe/",
+        "rating": 0,
+        "category": "thai",
+        "servings": 5
+        },
+        {"recipe": "Hawaiian Ribs (Crockpot)",
+        "ingredients":
+            [
+                {"baby back ribs": {"amount": 40, "unit": "oz/solid"}},
+                {"ancho chile powder": {"amount": 3, "unit": "tbsp"}},
+                {"teriyaki bbq sauce": {"amount": 0.67, "unit": "cup/liquid"}},
+                {"apple cider vinegar": {"amount": 0.33, "unit": "cup/liquid"}},
+                {"ginger": {"amount": 1, "unit": "tbsp"}},
+                {"garlic": {"amount": 2, "unit": "clove"}},
+                {"pineapple preserve": {"amount": 0.33, "unit": "cup/liquid"}},
+                {"ketchup": {"amount": 0.25, "unit": "cup/liquid"}},
+                {"green onion": {"amount": 2, "unit": "single"}}
+            ],
+        "spices":
+            ["pepper",
+             "vegetable oil",
+             "salt"
+            ],
+        "url": "https://spicysouthernkitchen.com/crock-pot-hawaiian-ribs/",
+        "rating": 0,
+        "category": "american",
+        "servings": 4
+        },
+        {"recipe": "Honey Garlic Chicken (Crockpot)",
+        "ingredients":
+            [
+                {"boneless chicken thigh": {"amount": 2.5, "unit": "lbs"}},
+                {"honey": {"amount": 0.33, "unit": "cup/liquid"}},
+                {"soy sauce": {"amount": 0.50, "unit": "cup/liquid"}},
+                {"ketchup": {"amount": 0.50, "unit": "cup/liquid"}},
+                {"garlic": {"amount": 6, "unit": "clove"}},
+                {"green onion": {"amount": 1, "unit": "single"}}
+            ],
+        "spices":
+            ["pepper",
+             "red pepper flakes",
+             "toasted sesame seeds",
+             "oregano",
+             "parsley",
+             "siracha",
+             "cornstarch"
+            ],
+        "url": "https://diethood.com/crock-pot-honey-garlic-chicken/",
+        "rating": 0,
+        "category": "chinese",
+        "servings": 6
+        },
+        {"recipe": "Tacos Al Pastor (Crockpot)",
+        "ingredients":
+            [
+                {"red enchilada sauce": {"amount": 16, "unit": "oz/liquid"}},
+                {"brown sugar": {"amount": 3, "unit": "tbsp"}},
+                {"pork shoulder": {"amount": 2, "unit": "lbs"}},
+                {"pineapple juice": {"amount": 0.25, "unit": "cup/liquid"}},
+                {"lime juice": {"amount": 0.25, "unit": "cup/liquid"}},
+                {"onion": {"amount": 1, "unit": "single"}},
+                {"garlic": {"amount": 3, "unit": "clove"}},
+                {"small corn tortilla": {"amount": 18, "unit": "single"}},
+                {"pineapple": {"amount": 2.25, "unit": "cup/solid"}},
+                {"cilantro": {"amount": 0.1, "unit": "bunch"}},
+                {"lime": {"amount": 1, "unit": "single"}},
+                {"cabbage": {"amount": 3, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["coriander",
+             "cumin",
+             "salt",
+             "pepper"
+            ],
+        "url": "https://boulderlocavore.com/slow-cooker-spicy-pork-pineapple-tacos/w",
+        "rating": 0,
+        "category": "mexican",
+        "servings": 9
+        }
+    ]
+}
