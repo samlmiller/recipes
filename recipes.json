@@ -699,6 +699,95 @@
         "rating": 0,
         "category": "mexican",
         "servings": 3
+        },
+        {"recipe": "Beef Bourguignon (Crockpot)",
+        "ingredients":
+            [
+                {"bacon": {"amount": 5, "unit": "single"}},
+                {"beef chuck or stew": {"amount": 3, "unit": "lbs"}},
+                {"red cooking wine": {"amount": 1, "unit": "cup/liquid"}},
+                {"chicken broth": {"amount": 2, "unit": "cup/liquid"}},
+                {"tomato sauce": {"amount": 0.5, "unit": "cup/liquid"}},
+                {"soy sauce": {"amount": 0.25, "unit": "cup/liquid"}},
+                {"garlic": {"amount": 3, "unit": "clove"}},
+                {"carrot": {"amount": 5, "unit": "single"}},
+                {"baby potato": {"amount": 1, "unit": "lbs"}},
+                {"crimini mushroom": {"amount": 8, "unit": "oz/solid"}}            
+            ],
+        "spices":
+            ["olive oil",
+             "flour",
+             "thyme",
+             "bay leaves",
+             "parsley"
+            ],
+        "url": "https://therecipecritic.com/slow-cooker-beef-bourguignon/",
+        "rating": 0,
+        "category": "american",
+        "servings": 6
+        },
+        {"recipe": "Cheesy Chicken Broccoli Soup (Crockpot)",
+        "ingredients":
+            [
+                {"chicken breast": {"amount": 1, "unit": "lbs"}},
+                {"chicken broth": {"amount": 5, "unit": "cup/liquid"}},
+                {"baby potato": {"amount": 0.75, "unit": "lbs"}},
+                {"broccoli": {"amount": 12, "unit": "oz/solid"}},
+                {"onion": {"amount": 1, "unit": "single"}},
+                {"flour": {"amount": 0.5, "unit": "cup/solid"}},
+                {"heavy cream": {"amount": 1.25, "unit": "cup/liquid"}},
+                {"parmesan": {"amount": 0.5, "unit": "cup/solid"}},
+                {"cheddar": {"amount": 1.5, "unit": "cup/solid"}}            
+            ],
+        "spices":
+            ["salt",
+             "pepper"
+            ],
+        "url": "https://www.delish.com/cooking/recipe-ideas/recipes/a57706/crock-pot-cheesy-chicken-broccoli-soup-recipe/",
+        "rating": 0,
+        "category": "american",
+        "servings": 6
+        },
+        {"recipe": "Korean Beef (Crockpot)",
+        "ingredients":
+            [
+                {"flank steak": {"amount": 1.5, "unit": "lbs"}},
+                {"cornstarch": {"amount": 0.25, "unit": "cup/solid"}},
+                {"garlic": {"amount": 2, "unit": "clove"}},
+                {"ginger": {"amount": 1, "unit": "tsp"}},
+                {"beef broth": {"amount": 0.5, "unit": "cup/liquid"}},
+                {"soy sauce": {"amount": 0.5, "unit": "cup/liquid"}},
+                {"brown sugar": {"amount": 0.33, "unit": "cup/solid"}},
+                {"green onion": {"amount": 1, "unit": "single"}}            
+            ],
+        "spices":
+            ["sesame oil",
+             "rice vinegar",
+             "sesame seeds"
+            ],
+        "url": "https://www.dinneratthezoo.com/slow-cooker-korean-beef/",
+        "rating": 0,
+        "category": "korean",
+        "servings": 6
+        },
+        {"recipe": "BBQ Pulled Pork (Crockpot)",
+        "ingredients":
+            [
+                {"pork shoulder": {"amount": 4, "unit": "lbs"}},
+                {"onion": {"amount": 1, "unit": "single"}},
+                {"dr pepper": {"amount": 1, "unit": "single"}},
+                {"bbq sauce": {"amount": 1, "unit": "cup/liquid"}}
+            ],
+        "spices":
+            ["paprika",
+             "garlic powder",
+             "salt",
+             "pepper"
+            ],
+        "url": "https://www.spendwithpennies.com/dr-pepper-pulled-pork-slow-cooker-recipe/",
+        "rating": 0,
+        "category": "american",
+        "servings": 8 
         }
     ]
 }
