@@ -788,6 +788,23 @@
         "rating": 0,
         "category": "american",
         "servings": 8 
+        },
+        {"recipe": "Mashed Potatoes",
+        "ingredients":
+            [
+                {"potato": {"amount": 4, "unit": "lbs"}},
+                {"salted butter": {"amount": 0.3, "unit": "cup/solid"}},
+                {"garlic": {"amount": 3, "unit": "clove"}},
+                {"milk": {"amount": 1, "unit": "cup/liquid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper"
+            ],
+        "url": "https://www.spendwithpennies.com/how-to-make-maamahed-potatoes/",
+        "rating": 0,
+        "category": "american",
+        "servings": 10 
         }
     ]
 }
