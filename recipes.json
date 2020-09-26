@@ -801,10 +801,32 @@
             ["salt",
              "pepper"
             ],
-        "url": "https://www.spendwithpennies.com/how-to-make-maamahed-potatoes/",
-        "rating": 0,
+        "url": "https://www.spendwithpennies.com/how-to-make-mashed-potatoes/",
+        "rating": 9,
         "category": "american",
         "servings": 10 
+        },
+        {"recipe": "Blackened Salmon Tacos",
+        "ingredients":
+            [
+                {"salmon": {"amount": 1, "unit": "lbs"}},
+                {"pineapple": {"amount": 1, "unit": "cup/solid"}},
+                {"avocado": {"amount": 2, "unit": "single"}},
+                {"onion": {"amount": 0.25, "unit": "cup/solid"}},
+                {"lime": {"amount": 1, "unit": "single"}},
+                {"corn tortilla": {"amount": 6, "unit": "single"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "cajun spice",
+             "olive oil",
+             "cilantro"
+            ],
+        "url": "https://www.delish.com/cooking/recipe-ideas/a25103010/salmon-tacos-recipe/",
+        "rating": 0,
+        "category": "mexican",
+        "servings": 2 
         }
     ]
 }
