@@ -827,6 +827,27 @@
         "rating": 8.5,
         "category": "mexican",
         "servings": 2 
+        },
+        {"recipe": "Bacon-wrapped Scallops",
+        "ingredients":
+            [
+                {"scallops": {"amount": 1.5, "unit": "lbs"}},
+                {"bacon": {"amount": 0.5, "unit": "lbs"}},
+                {"avocado": {"amount": 3, "unit": "single"}},
+                {"mayonnaise": {"amount": 1, "unit": "cup/liquid"}},
+                {"lime": {"amount": 1, "unit": "single"}},
+                {"chili paste": {"amount": 0.25, "unit": "cup/liquid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "olive oil",
+             "cilantro"
+            ],
+        "url": "https://www.foodnetwork.com/recipes/tyler-florence/bacon-wrapped-scallops-with-spicy-mayo-recipe-1943964",
+        "rating": 0,
+        "category": "appetizer",
+        "servings": 5 
         }
     ]
 }
