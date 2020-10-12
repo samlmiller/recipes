@@ -848,6 +848,26 @@
         "rating": 0,
         "category": "appetizer",
         "servings": 5 
+        },
+        {"recipe": "Banana Bread",
+        "ingredients":
+            [
+                {"salted butter": {"amount": 0.5, "unit": "cup"}},
+                {"banana": {"amount": 3, "unit": "single"}},
+                {"egg": {"amount": 2, "unit": "single"}},
+                {"vanilla extract": {"amount": 1, "unit": "tsp"}},
+                {"flour": {"amount": 2, "unit": "cup/solid"}},
+                {"baking soda": {"amount": 1, "unit": "tsp"}},
+                {"sugar": {"amount": 1, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["salt",
+             "cinnamon"
+            ],
+        "url": "https://thesaltymarshmallow.com/best-banana-bread-recipe/",
+        "rating": 8,
+        "category": "dessert",
+        "servings": 8
         }
     ]
 }
