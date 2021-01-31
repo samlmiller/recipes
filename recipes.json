@@ -178,7 +178,7 @@
                 {"chickpea": {"amount": 15, "unit": "oz/solid"}},
                 {"pea": {"amount": 15, "unit": "oz/solid"}},
                 {"coconut milk": {"amount": 16, "unit": "oz/liquid"}},
-                {"tomato": {"amount": 2, "unit": "single"}},
+                {"can tomato": {"amount": 14, "unit": "oz/liquid"}},
                 {"naan": {"amount": 4, "unit": "single"}}
             ],
         "spices":
