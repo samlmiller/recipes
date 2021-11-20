@@ -1,6 +1,29 @@
 {
     "recipes":
     [
+        {"recipe": "BBQ Beef Brisket (Crockpot)",
+        "ingredients": 
+            [
+                {"beef brisket": {"amount": 4, "unit": "lbs"}},
+                {"garlic": {"amount": 2, "unit": "clove"}},
+                {"bbq sauce": {"amount": 3.5, "unit": "cup/liquid"}}
+            ],
+        "spices":
+            ["salt",
+             "pepper",
+             "mustard powder",
+             "cumin powder",
+             "garlic powder",
+             "onion powder",
+             "paprika",
+             "brown sugar,
+             "olive oil"
+            ],
+        "url": "https://www.recipetineats.com/slow-cooker-beef-brisket-with-bbq-sauce/",
+        "rating": 0.0,
+        "category": "american",
+        "servings": 8
+        },
         {"recipe": "California Burrito",
         "ingredients": 
             [
