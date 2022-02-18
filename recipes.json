@@ -24,6 +24,20 @@
         "category": "american",
         "servings": 8
         },
+        {"recipe": "Matcha Coconut Chia Pudding",
+        "ingredients": 
+            [
+                {"matcha powder": {"amount": 1, "unit": "tbsp"}},
+                {"light coconut milk": {"amount": 13, "unit": "oz/liquid"}},
+                {"chia": {"amount": 3, "unit": "tbsp"}},
+                {"honey": {"amount": 1.5, "unit": "tbsp"}},
+                {"vanilla extract": {"amount": 0.25, "unit": "tsp"}}
+            ],
+        "url": "https://about.kaiserpermanente.org/total-health/food-for-health/recipes/matcha-coconut-chia-pudding",
+        "rating": 0,
+        "category": "dessert",
+        "servings": 4
+        },
         {"recipe": "California Burrito",
         "ingredients": 
             [
