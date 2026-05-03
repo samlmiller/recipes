@@ -1,6 +1,105 @@
 {
     "recipes":
     [
+        {
+        "recipe": "Chicken Hot Pot",
+         "url": "Donabe Book – page 68",
+         "ingredients":
+            [
+                
+            ],
+        "spices": 
+            [
+                "Karashi"
+            ],       
+         "category": "donabe"
+         "subcategory": "classic",
+         "servings": 4
+        },
+        {"recipe": "Simmered Tofu Hot Pot",
+         "url": "Donabe Book – page 57",
+         "ingredients":
+            [
+                {"kombu (kelp)": {"amount": 2, "unit": "4-inch square"}},
+                {"sake": {"amount": "2", "unit": "tbsp"}},
+                {"enoki mushrooms": {"amount": "5", "unit": "oz/solid"}},
+                {"tororo kombu(thin kelp)": {"amount": "0.25", "unit": "oz/solid"}},
+                {"soft tofu": {"amount": "19", "unit": "oz/solid"}},
+                {"ponzu": {"amount": "0.25", "unit": "cup/liquid"}},
+            ],
+        "spices": 
+            [
+                "salt",
+                "sesame seeds",
+                "Shichimi togarashi"
+            ],       
+         "category": "donabe"
+         "subcategory": "classic",
+         "servings": 4
+        },
+        {"recipe": "Sun-Dried Mushroom and Tofu Hot Pot",
+         "url": "Donabe Book – page 59",
+         "ingredients":
+            [
+                {"eryngii (king trumpet) mushrooms": {"amount": 7, "unit": "oz/solid"}},
+                {"sake": {"amount": "0.25", "unit": "cup/liquid"}},
+                {"enoki mushrooms": {"amount": "7", "unit": "oz/solid"}},
+                {"kombu (kelp)": {"amount": 1, "unit": "3x6 inch"}},
+                {"shimeji mushrooms": {"amount": "5", "unit": "oz/solid"}},
+                {"mizuna": {"amount": "5", "unit": "oz/solid"}},
+                {"soft tofu": {"amount": "14", "unit": "oz/solid"}},
+                {"mirin": {"amount": "2", "unit": "tbsp"}},
+                {"shoyu": {"amount": "2", "unit": "tbsp"}},
+            ],
+        "spices": 
+            [
+                "yuzu rind",
+                "Shichimi togarashi"
+            ],       
+         "category": "donabe"
+         "subcategory": "classic",
+         "servings": 4
+        },
+        {"recipe": "Kyoto-Stye Saikyo Hot Pot",
+         "url": "Donabe Book – page 67",
+         "ingredients":
+            [
+                {"green cabbage head": {"amount": 10, "unit": "oz/solid"}},
+                {"carrot": {"amount": "1", "unit": "single"}},
+                {"broccoli": {"amount": "8", "unit": "oz/solid"}},
+                {"russet potato": {"amount": 8, "unit": "oz/solid"}},
+                {"pork belly": {"amount": "1", "unit": "lbs"}},
+                {"kombu and bonito dashi": {"amount": "4", "unit": "oz/liquid"}},
+                {"Saikyo miso": {"amount": "10", "unit": "oz/solid"}},
+                {"white sesame paste": {"amount": "2", "unit": "tbsp"}},
+                {"rice vinegar": {"amount": "1.5", "unit": "tsp"}},
+            ],
+        "spices": 
+            [
+                "Karashi"
+            ],       
+         "category": "donabe"
+         "subcategory": "classic",
+         "servings": 4
+        },
+        {"recipe": "Fresh Tofu",
+         "url": "Donabe Book – page 62",
+         "ingredients":
+            [
+                {"soy milk": {"amount": 4, "unit": "oz/liquid"}},
+                {"liquid nigari": {"amount": "2.5", "unit": "tsp"}},
+            ],
+        "spices": 
+            [
+                "plum salt",
+                "sesame seeds",
+                "Shichimi togarashi",
+                "olive oil"
+            ],       
+         "category": "donabe"
+         "subcategory": "classic",
+         "servings": 4
+        },
         {"recipe": "BBQ Beef Brisket (Crockpot)",
         "ingredients": 
             [
