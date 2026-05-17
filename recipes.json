@@ -100,6 +100,163 @@
          "subcategory": "classic",
          "servings": 4
         },
+        {"recipe": "Satisfying & Savory Oats",
+         "url": "So Easy So Good Book – page 83",
+         "ingredients":
+            [
+                {"chicken bone broth": {"amount": 4, "unit": "cup/liquid"}},
+                {"spinach": {"amount": 4, "unit": "cup/solid"}},
+                {"quick 1-minute oats": {"amount": 2, "unit": "cup/solid"}},
+                {"egg": {"amount": 4, "unit": "single"}}
+            ],
+        "spices":
+            ["chili oil",
+		     "soy sauce",
+		     "oyster sauce",
+		     "cilantro",
+		     "scallion"
+            ],
+         "category": "porridge",
+         "servings": 4
+        },
+        {"recipe": "5-Minute Sesame Garlic Tofu",
+         "url": "So Easy So Good Book – page 139",
+         "ingredients":
+            [
+                {"soft or silken tofu": {"amount": 14, "unit": "oz/solid"}},
+                {"Persian cucumber": {"amount": 2, "unit": "single"}},
+            ],
+        "spices":
+            [
+                "chili garlic sauce",
+                "soy sauce",
+                "sesame oil",
+                "sesame seeds",
+                "rice vinegar",
+                "honey"
+            ],
+         "category": "side",
+         "servings": 2
+        },
+        {"recipe": "Italian One-Pot Chicken Pasta",
+         "url": "So Easy So Good Book – page 134",
+         "ingredients":
+            [
+                {"chicken breast or thigh": {"amount": 1.5, "unit": "lbs"}},
+                {"cherry tomato": {"amount": 1.5, "unit": "cup/solid"}},
+                {"red bell pepper": {"amount": 1, "unit": "single"}},
+                {"garlic": {"amount": 2, "unit": "clove"}},
+                {"tomato paste": {"amount": 2, "unit": "tbsp"}},
+                {"chicken broth": {"amount": 4, "unit": "cup/liquid"}},
+                {"rigatoni pasta": {"amount": 8, "unit": "oz/solid"}},
+                {"spinach": {"amount": 6, "unit": "cup/solid"}},
+                {"Parmesan cheese": {"amount": 0.33, "unit": "cup/solid"}},
+            ],
+        "spices":
+            [
+                "oregano",
+                "salt",
+                "black pepper",
+                "olive oil",
+                "parsley",
+                "lemon juice"
+            ],
+         "category": "italian",
+         "servings": 4
+        },
+        {"recipe": "Sriracha Honey Tofu Bowls",
+         "url": "So Easy So Good Book – page 175",
+         "ingredients":
+            [
+                {"firm/extra-firm tofu": {"amount": 28, "unit": "oz/solid"}},
+                {"Persian cucumber": {"amount": 2, "unit": "single"}},
+                {"cornstarch": {"amount": 6, "unit": "tbsp"}},
+                {"shredded carrot": {"amount": 2, "unit": "cup/solid"}},
+                {"avocado": {"amount": 1, "unit": "single"}}
+            ],
+        "spices":
+            [
+                "soy sauce",
+                "sriracha",
+                "honey",
+                "rice vinegar",
+                "avocado oil"
+            ],
+         "category": "asian",
+         "servings": 4
+        },
+        {"recipe": "Loaded Nachos",
+         "url": "So Easy So Good Book – page 185",
+         "ingredients":
+            [
+                {"corn tortilla chips": {"amount": 12, "unit": "oz/solid"}},
+                {"shredded Mexican cheese blend": {"amount": 8, "unit": "oz/solid"}},
+                {"red bell pepper": {"amount": 1, "unit": "single"}},
+                {"shredded rotisserie chicken": {"amount": 2, "unit": "cup/solid"}},
+                {"black bean": {"amount": 15, "unit": "oz/solid"}},
+                {"corn kernel": {"amount": 1, "unit": "cup/solid"}},
+                {"scallion": {"amount": 1, "unit": "single"}},
+                {"jalapeno": {"amount": 0.5, "unit": "single"}},
+            ],
+        "spices":
+            [
+                "olive oil",
+                "cilantro",
+                "chili powder",
+                "salt",
+                "black pepper"
+            ],
+         "category": "mexican",
+         "servings": 4
+        },
+        {"recipe": "Gnocchi with Sausage & Peppers (Sheet Pan)",
+         "url": "So Easy So Good Book – page 195",
+         "ingredients":
+            [
+                {"sweet chicken sausage (cooked)": {"amount": 12, "unit": "oz/solid"}},
+                {"gnocchi": {"amount": 16, "unit": "oz/solid"}},
+                {"baby bell pepper": {"amount": 8, "unit": "oz/solid"}},
+                {"cherry tomato": {"amount": 8, "unit": "oz/solid"}},
+                {"garlic": {"amount": 3, "unit": "clove"}},
+                {"baby spinach": {"amount": 3, "unit": "cup/solid"}},
+                {"Parmesan cheese": {"amount": 3, "unit": "tbsp"}},
+            ],
+        "spices":
+            [
+                "rosemary",
+                "Italian seasoning",
+                "red pepper flakes",
+                "salt",
+                "black pepper",
+                "olive oil",
+            ],
+         "category": "italian",
+         "servings": 4
+        },
+        {"recipe": "Roast Cod with Corn & Zucchini",
+         "url": "So Easy So Good Book – page 195",
+         "ingredients":
+            [
+                {"sweet chicken sausage (cooked)": {"amount": 12, "unit": "oz/solid"}},
+                {"gnocchi": {"amount": 16, "unit": "oz/solid"}},
+                {"baby bell pepper": {"amount": 8, "unit": "oz/solid"}},
+                {"cherry tomato": {"amount": 8, "unit": "oz/solid"}},
+                {"garlic": {"amount": 3, "unit": "clove"}},
+                {"baby spinach": {"amount": 3, "unit": "cup/solid"}},
+                {"Parmesan cheese": {"amount": 3, "unit": "tbsp"}},
+            ],
+        "spices":
+            [
+                "olive oil",
+                "cilantro",
+                "red pepper flakes",
+                "salt",
+                "black pepper",
+                "olive oil",
+            ],
+         "category": "italian",
+         "servings": 4
+        },
         {"recipe": "BBQ Beef Brisket (Crockpot)",
         "ingredients": 
             [
