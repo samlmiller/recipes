@@ -87,7 +87,7 @@
          "ingredients":
             [
                 {"soy milk": {"amount": 4, "unit": "oz/liquid"}},
-                {"liquid nigari": {"amount": "2.5", "unit": "tsp"}},
+                {"liquid nigari": {"amount": "2.5", "unit": "tsp"}}
             ],
         "spices": 
             [
