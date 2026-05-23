@@ -181,7 +181,7 @@ class ShoppingList(object):
         def check_values(recipe):
             # Validation type map
             validation_json_key_map = {'no_validation': ['ingredients', 'recipe'],
-                                       'number': ['rating', 'servings'],
+                                       'number': ['servings'],
                                        'list': ['spices']
                                        }
             for key in ShoppingList.get_recipe_key_list():
@@ -190,6 +190,7 @@ class ShoppingList(object):
                     continue
                 # Check for valid number
                 elif key in validation_json_key_map['number']:
+                    
                     val = float(recipe[key])
                     passed_check = ShoppingList.check_number(val)
                 # Check list of valid spices name
