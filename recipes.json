@@ -4,6 +4,7 @@
         {
         "recipe": "Chicken Hot Pot",
          "url": "Donabe Book – page 68",
+         "rating": 0.0,
          "ingredients":
             [
                 
@@ -18,6 +19,7 @@
         },
         {"recipe": "Simmered Tofu Hot Pot",
          "url": "Donabe Book – page 57",
+         "rating": 0.0,
          "ingredients":
             [
                 {"kombu (kelp)": {"amount": 2, "unit": "4-inch square"}},
@@ -39,6 +41,7 @@
         },
         {"recipe": "Sun-Dried Mushroom and Tofu Hot Pot",
          "url": "Donabe Book – page 59",
+         "rating": 0.0,
          "ingredients":
             [
                 {"eryngii (king trumpet) mushrooms": {"amount": 7, "unit": "oz/solid"}},
@@ -62,6 +65,7 @@
         },
         {"recipe": "Kyoto-Stye Saikyo Hot Pot",
          "url": "Donabe Book – page 67",
+         "rating": 0.0,
          "ingredients":
             [
                 {"green cabbage head": {"amount": 10, "unit": "oz/solid"}},
@@ -84,6 +88,7 @@
         },
         {"recipe": "Fresh Tofu",
          "url": "Donabe Book – page 62",
+         "rating": 0.0,
          "ingredients":
             [
                 {"soy milk": {"amount": 4, "unit": "oz/liquid"}},
@@ -102,6 +107,7 @@
         },
         {"recipe": "Satisfying & Savory Oats",
          "url": "So Easy So Good Book – page 83",
+         "rating": 0.0,
          "ingredients":
             [
                 {"chicken bone broth": {"amount": 4, "unit": "cup/liquid"}},
@@ -121,6 +127,7 @@
         },
         {"recipe": "5-Minute Sesame Garlic Tofu",
          "url": "So Easy So Good Book – page 139",
+         "rating": 0.0,
          "ingredients":
             [
                 {"soft or silken tofu": {"amount": 14, "unit": "oz/solid"}},
@@ -140,6 +147,7 @@
         },
         {"recipe": "Italian One-Pot Chicken Pasta",
          "url": "So Easy So Good Book – page 134",
+         "rating": 0.0,
          "ingredients":
             [
                 {"chicken breast or thigh": {"amount": 1.5, "unit": "lbs"}},
@@ -166,6 +174,7 @@
         },
         {"recipe": "Sriracha Honey Tofu Bowls",
          "url": "So Easy So Good Book – page 175",
+         "rating": 0.0,
          "ingredients":
             [
                 {"firm/extra-firm tofu": {"amount": 28, "unit": "oz/solid"}},
@@ -187,6 +196,7 @@
         },
         {"recipe": "Loaded Nachos",
          "url": "So Easy So Good Book – page 185",
+         "rating": 0.0,
          "ingredients":
             [
                 {"corn tortilla chips": {"amount": 12, "unit": "oz/solid"}},
@@ -211,6 +221,7 @@
         },
         {"recipe": "Gnocchi with Sausage & Peppers (Sheet Pan)",
          "url": "So Easy So Good Book – page 195",
+         "rating": 0.0,
          "ingredients":
             [
                 {"sweet chicken sausage (cooked)": {"amount": 12, "unit": "oz/solid"}},
@@ -235,6 +246,7 @@
         },
         {"recipe": "Roast Cod with Corn & Zucchini",
          "url": "So Easy So Good Book – page 195",
+         "rating": 0.0,
          "ingredients":
             [
                 {"sweet chicken sausage (cooked)": {"amount": 12, "unit": "oz/solid"}},
