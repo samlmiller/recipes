@@ -25,7 +25,7 @@
                 {"enoki mushrooms": {"amount": "5", "unit": "oz/solid"}},
                 {"tororo kombu(thin kelp)": {"amount": "0.25", "unit": "oz/solid"}},
                 {"soft tofu": {"amount": "19", "unit": "oz/solid"}},
-                {"ponzu": {"amount": "0.25", "unit": "cup/liquid"}},
+                {"ponzu": {"amount": "0.25", "unit": "cup/liquid"}}
             ],
         "spices": 
             [
@@ -49,7 +49,7 @@
                 {"mizuna": {"amount": "5", "unit": "oz/solid"}},
                 {"soft tofu": {"amount": "14", "unit": "oz/solid"}},
                 {"mirin": {"amount": "2", "unit": "tbsp"}},
-                {"shoyu": {"amount": "2", "unit": "tbsp"}},
+                {"shoyu": {"amount": "2", "unit": "tbsp"}}
             ],
         "spices": 
             [
@@ -72,7 +72,7 @@
                 {"kombu and bonito dashi": {"amount": "4", "unit": "oz/liquid"}},
                 {"Saikyo miso": {"amount": "10", "unit": "oz/solid"}},
                 {"white sesame paste": {"amount": "2", "unit": "tbsp"}},
-                {"rice vinegar": {"amount": "1.5", "unit": "tsp"}},
+                {"rice vinegar": {"amount": "1.5", "unit": "tsp"}}
             ],
         "spices": 
             [
@@ -124,7 +124,7 @@
          "ingredients":
             [
                 {"soft or silken tofu": {"amount": 14, "unit": "oz/solid"}},
-                {"Persian cucumber": {"amount": 2, "unit": "single"}},
+                {"Persian cucumber": {"amount": 2, "unit": "single"}}
             ],
         "spices":
             [
@@ -150,7 +150,7 @@
                 {"chicken broth": {"amount": 4, "unit": "cup/liquid"}},
                 {"rigatoni pasta": {"amount": 8, "unit": "oz/solid"}},
                 {"spinach": {"amount": 6, "unit": "cup/solid"}},
-                {"Parmesan cheese": {"amount": 0.33, "unit": "cup/solid"}},
+                {"Parmesan cheese": {"amount": 0.33, "unit": "cup/solid"}}
             ],
         "spices":
             [
@@ -196,7 +196,7 @@
                 {"black bean": {"amount": 15, "unit": "oz/solid"}},
                 {"corn kernel": {"amount": 1, "unit": "cup/solid"}},
                 {"scallion": {"amount": 1, "unit": "single"}},
-                {"jalapeno": {"amount": 0.5, "unit": "single"}},
+                {"jalapeno": {"amount": 0.5, "unit": "single"}}
             ],
         "spices":
             [
@@ -219,7 +219,7 @@
                 {"cherry tomato": {"amount": 8, "unit": "oz/solid"}},
                 {"garlic": {"amount": 3, "unit": "clove"}},
                 {"baby spinach": {"amount": 3, "unit": "cup/solid"}},
-                {"Parmesan cheese": {"amount": 3, "unit": "tbsp"}},
+                {"Parmesan cheese": {"amount": 3, "unit": "tbsp"}}
             ],
         "spices":
             [
@@ -243,7 +243,7 @@
                 {"cherry tomato": {"amount": 8, "unit": "oz/solid"}},
                 {"garlic": {"amount": 3, "unit": "clove"}},
                 {"baby spinach": {"amount": 3, "unit": "cup/solid"}},
-                {"Parmesan cheese": {"amount": 3, "unit": "tbsp"}},
+                {"Parmesan cheese": {"amount": 3, "unit": "tbsp"}}
             ],
         "spices":
             [
