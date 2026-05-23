@@ -12,7 +12,7 @@
             [
                 "Karashi"
             ],       
-         "category": "donabe"
+         "category": "donabe",
          "subcategory": "classic",
          "servings": 4
         },
@@ -33,7 +33,7 @@
                 "sesame seeds",
                 "Shichimi togarashi"
             ],       
-         "category": "donabe"
+         "category": "donabe",
          "subcategory": "classic",
          "servings": 4
         },
@@ -56,7 +56,7 @@
                 "yuzu rind",
                 "Shichimi togarashi"
             ],       
-         "category": "donabe"
+         "category": "donabe",
          "subcategory": "classic",
          "servings": 4
         },
@@ -78,7 +78,7 @@
             [
                 "Karashi"
             ],       
-         "category": "donabe"
+         "category": "donabe",
          "subcategory": "classic",
          "servings": 4
         },
@@ -96,7 +96,7 @@
                 "Shichimi togarashi",
                 "olive oil"
             ],       
-         "category": "donabe"
+         "category": "donabe",
          "subcategory": "classic",
          "servings": 4
         },
