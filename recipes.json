@@ -861,7 +861,71 @@
         "category": "american",
         "servings": 4
         },
-        {"recipe": "Thai Chicken Soup (Crockpot)",
+        {"recipe": "White Chicken Chili (Crockpot)",
+        "ingredients":
+            [
+                {"chicken breast": {"amount": 1, "unit": "lbs"}},
+				{"yellow onion": {"amount": 1, "unit": "single"}},
+                {"garlic": {"amount": 2, "unit": "clove"}},
+				{"chicken broth (low sodium)": {"amount": 3, "unit": "cup/liquid"}},
+                {"great Northern beans": {"amount": 30, "unit": "oz/solid"}},
+                {"green chile": {"amount": 8, "unit": "oz/solid"}},
+                {"canned corn": {"amount": 15, "unit": "oz/solid"}},
+                {"cream cheese (reduced fat)": {"amount": 4, "unit": "oz/solid"}},
+                {"half and half": {"amount": 0.25, "unit": "cup/liquid"}},
+                {"yellow onion": {"amount": 1, "unit": "single"}},
+                {"carrot": {"amount": 1, "unit": "cup/solid"}},
+                {"red bell pepper": {"amount": 1, "unit": "single"}},
+                {"mushroom": {"amount": 8, "unit": "oz/solid"}},
+                {"broccoli": {"amount": 1, "unit": "bunch"}},
+                {"rice or noodle": {"amount": 2.5, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["black pepper",
+             "cumin",
+             "oregano",
+             "salt",
+             "chili powder",
+             "cayenne pepper",
+			 "cilantro",
+			 "shredded cheese",
+			 "tortilla strips"
+            ],
+        "url": "https://www.thechunkychef.com/slow-cooker-creamy-white-chicken-chili/",
+        "rating": 0,
+        "category": "American",
+        "servings": 6
+        },
+		{"recipe": "Chili Mac and Cheese (Crockpot)",
+        "ingredients":
+            [
+                {"ground beef": {"amount": 1, "unit": "lbs"}},
+				{"onion": {"amount": 1, "unit": "cup/solid"}},
+                {"garlic": {"amount": 3, "unit": "clove"}},
+				{"green pepper": {"amount": 0.5, "unit": "cup/solid"}},
+                {"red pepper": {"amount": 0.5, "unit": "cup/solid"}},
+                {"elbow macaroni": {"amount": 2, "unit": "cup/solid"}},
+                {"fire roasted tomatoes": {"amount": 15, "unit": "oz/solid"}},
+                {"black beans": {"amount": 15, "unit": "oz/solid"}},
+                {"chili beans": {"amount": 15, "unit": "oz/solid"}},
+                {"beef broth": {"amount": 1, "unit": "cup/liquid"}},
+                {"cheddar cheese (shredded)": {"amount": 1, "unit": "cup/solid"}},
+                {"Monterey jack cheese (shredded)": {"amount": 1, "unit": "cup/solid"}}
+            ],
+        "spices":
+            ["chili powder",
+			 "black pepper",
+             "cumin",
+             "oregano",
+             "salt",
+             "cayenne pepper"
+            ],
+        "url": "https://www.staysnatched.com/slow-cooker-chili-mac/",
+        "rating": 0,
+        "category": "American",
+        "servings": 7
+        },
+		{"recipe": "Thai Chicken Soup (Crockpot)",
         "ingredients":
             [
                 {"coconut milk": {"amount": 28, "unit": "oz/liquid"}},
