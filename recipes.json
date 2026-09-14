@@ -872,13 +872,7 @@
                 {"green chile": {"amount": 8, "unit": "oz/solid"}},
                 {"canned corn": {"amount": 15, "unit": "oz/solid"}},
                 {"cream cheese (reduced fat)": {"amount": 4, "unit": "oz/solid"}},
-                {"half and half": {"amount": 0.25, "unit": "cup/liquid"}},
-                {"yellow onion": {"amount": 1, "unit": "single"}},
-                {"carrot": {"amount": 1, "unit": "cup/solid"}},
-                {"red bell pepper": {"amount": 1, "unit": "single"}},
-                {"mushroom": {"amount": 8, "unit": "oz/solid"}},
-                {"broccoli": {"amount": 1, "unit": "bunch"}},
-                {"rice or noodle": {"amount": 2.5, "unit": "cup/solid"}}
+                {"half and half": {"amount": 0.25, "unit": "cup/liquid"}}
             ],
         "spices":
             ["black pepper",
