@@ -105,6 +105,50 @@
          "subcategory": "classic",
          "servings": 4
         },
+		{"recipe": "Egg Drop Soup",
+         "url": "https://thewoksoflife.com/egg-drop-soup/",
+         "rating": 0.0,
+         "ingredients":
+            [
+                {"chicken stock": {"amount": 4, "unit": "cup/liquid"}},
+                {"cornstarch": {"amount": 3, "unit": "tbsp"}},
+                {"scallion": {"amount": 1, "unit": "single"}},
+                {"egg": {"amount": 3, "unit": "single"}}
+            ],
+        "spices":
+            ["sesame oil",
+		     "salt,
+		     "sugar",
+		     "white pepper",
+		     "turmeric"
+            ],
+         "category": "soup",
+         "servings": 6
+        },
+		{"recipe": "Chicken Corn Egg Drop Soup",
+         "url": "https://thewoksoflife.com/chicken-corn-egg-drop-soup/",
+         "rating": 0.0,
+         "ingredients":
+            [
+                {"chicken stock": {"amount": 5, "unit": "cup/liquid"}},
+				{"chicken breast": {"amount": 4, "unit": "oz/solid"}},
+                {"cornstarch": {"amount": 3, "unit": "tsp"}},
+                {"sweet corn (fresh or frozen)": {"amount": 1.5, "unit": "cup/solid"}},
+                {"egg": {"amount": 2, "unit": "single"}},
+				{"scallion": {"amount": 1, "unit": "single"}}
+            ],
+        "spices":
+            ["oyster sauce",
+			 "sesame oil",
+		     "salt,
+		     "sugar",
+		     "white pepper",
+			 "black pepper",
+		     "turmeric"
+            ],
+         "category": "soup",
+         "servings": 4
+        },
         {"recipe": "Satisfying & Savory Oats",
          "url": "So Easy So Good Book – page 83",
          "rating": 0.0,
