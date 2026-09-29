@@ -105,6 +105,29 @@
          "subcategory": "classic",
          "servings": 4
         },
+		{"recipe": "Salmon Sushi Bake",
+         "url": "https://www.tastingtable.com/1195090/salmon-sushi-bake-recipe/",
+         "rating": 0.0,
+         "ingredients":
+            [
+                {"salmon": {"amount": 2, "unit": "single"}},
+                {"Kewpie mayo": {"amount": 4, "unit": "tbsp"}},
+                {"sushi rice": {"amount": 1, "unit": "cup/solid"}},
+                {"green onion": {"amount": 6, "unit": "single"}},
+				{"seaweed sheet": {"amount": 10, "unit": "single"}}
+            ],
+        "spices":
+            ["soy sauce",
+		     "rice vinegar",
+		     "sugar",
+		     "salt",
+		     "furikake seasoning",
+			 "sriracha",
+			 "sesame seeds"
+            ],
+         "category": "casserole",
+         "servings": 4
+        },
 		{"recipe": "Egg Drop Soup",
          "url": "https://thewoksoflife.com/egg-drop-soup/",
          "rating": 0.0,
@@ -112,7 +135,7 @@
             [
                 {"chicken stock": {"amount": 4, "unit": "cup/liquid"}},
                 {"cornstarch": {"amount": 3, "unit": "tbsp"}},
-                {"scallion": {"amount": 1, "unit": "single"}},
+                {"green onion": {"amount": 1, "unit": "single"}},
                 {"egg": {"amount": 3, "unit": "single"}}
             ],
         "spices":
